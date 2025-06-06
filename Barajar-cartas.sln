@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barajar-cartas", "Barajar-cartas.csproj", "{0DF88D6B-F1C1-6141-E7C6-0591C838458E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matriz", "matriz\matriz.csproj", "{41D6CD9F-6655-3FB2-C7F6-ABB59082667D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudiantes", "Estudiantes\Estudiantes.csproj", "{27B58433-9311-6DA5-9441-C4AD604D0CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF88D6B-F1C1-6141-E7C6-0591C838458E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF88D6B-F1C1-6141-E7C6-0591C838458E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF88D6B-F1C1-6141-E7C6-0591C838458E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF88D6B-F1C1-6141-E7C6-0591C838458E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D6CD9F-6655-3FB2-C7F6-ABB59082667D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D6CD9F-6655-3FB2-C7F6-ABB59082667D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D6CD9F-6655-3FB2-C7F6-ABB59082667D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D6CD9F-6655-3FB2-C7F6-ABB59082667D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B58433-9311-6DA5-9441-C4AD604D0CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B58433-9311-6DA5-9441-C4AD604D0CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B58433-9311-6DA5-9441-C4AD604D0CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B58433-9311-6DA5-9441-C4AD604D0CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C987028-A137-4BAB-A871-8170B0C9E3A5}
+	EndGlobalSection
+EndGlobal

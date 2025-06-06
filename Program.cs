@@ -1,3 +1,9 @@
 ﻿using Ejercicio;
+using Ejercicio.Barajar_cartas;
 
-Algoritmo.Ejercicio();
+
+Baraja baraja = new Baraja();
+
+baraja.Barajar();
+
+baraja.Repartir(4);
