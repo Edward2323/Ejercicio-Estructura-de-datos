@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Estudiantes\**" />
+    <Compile Remove="matriz\**" />
+    <EmbeddedResource Remove="Estudiantes\**" />
+    <EmbeddedResource Remove="matriz\**" />
+    <None Remove="Estudiantes\**" />
+    <None Remove="matriz\**" />
+  </ItemGroup>
+
 </Project>

@@ -30,9 +30,6 @@
                     numero = 10;
 
                 cartas[i] = new Carta(numero, palo);
-
-                //Console.WriteLine(cartas[i].numero + ", " + cartas[i].palo);
-
                 numero++;
             }
         }
